@@ -1,0 +1,100 @@
+h1{
+/*	margin:0 auto;
+	display:block; 
+	width:30em;
+	margin-top:1em;
+	margin-bottom:1em;
+	font-size:48px;
+	font-family:Arial;
+	text-align:center; */
+	font-size: 48px;
+	font-family: Arial;
+}
+p {
+	font-weight:bold;
+	font-size:24px;
+	font-family:Arial;
+}
+.Question1{
+	margin:0 auto;
+	display:block;
+	width:28em;
+	margin-top:1em;
+	margin-bottom:2em;
+	font-size:16px;
+	font-family:Ariel;
+	font-style:italic;
+}
+
+input[type=submit]{
+	margin:0 auto;
+	display:block; 
+	width:10em;
+	height:2em;
+	background-color:lightblue;
+	margin-bottom:2em;
+	font-weight:bold;
+	font-family:Ariel;
+	font-size:18px;
+	border-radius:3px;
+	-webkit-border-radius: 3px; 
+    -moz-border-radius: 13px; 
+	border: 2px solid #a1a1a1;
+}
+
+img{
+	margin:0 auto;
+	display:block; 
+	width:20em;
+	margin-top:1em;
+	margin-bottom:2em;
+}
+body{
+	background-color:lightgrey;
+}
+.answers{
+    margin:0 auto;
+	display:block; 
+	width:20em;
+	height:4em;
+	margin-bottom:2em;
+	font-weight:bold;
+	font-family:Ariel;
+	font-size:22px;
+	text-align:center;
+}
+
+.result{
+	margin:0 auto;
+	display:block;
+	width:28em;
+	margin-top:1em;
+	margin-bottom:2em;
+	font-size:24px;
+	font-family:Ariel;
+	font-style:italic;
+	text-align:center;
+}
+
+.holdplace > .row > div, .holdplace > p {
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 1.2em;
+}
+
+.holdplace > .row > h2 {
+	margin-top: 1.2em;
+	margin-bottom: 1.2em;
+}
+
+.text-warning, .label1 {
+	font-size: 1.2em;
+	font-family: Ariel, Helvetica, "Helvetica Neue", "Helvetica Neue Light", "HelveticaNeue-Light";
+	font-weight: 300;
+}
+
+
+.label1 {
+	font-weight: 600;
+	text-align: left;
+}
